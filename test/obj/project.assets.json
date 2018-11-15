@@ -11507,11 +11507,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Demo\\CoreDemo\\aspNetCoreDocker\\test\\test\\test.csproj",
+      "projectUniqueName": "D:\\Github\\Text\\test\\test.csproj",
       "projectName": "test",
-      "projectPath": "D:\\Demo\\CoreDemo\\aspNetCoreDocker\\test\\test\\test.csproj",
+      "projectPath": "D:\\Github\\Text\\test\\test.csproj",
       "packagesPath": "C:\\Users\\lilun\\.nuget\\packages\\",
-      "outputPath": "D:\\Demo\\CoreDemo\\aspNetCoreDocker\\test\\test\\obj\\",
+      "outputPath": "D:\\Github\\Text\\test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

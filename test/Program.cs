@@ -19,7 +19,7 @@ namespace test
 
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
             WebHost.CreateDefaultBuilder(args)
-                .UseUrls("http://*:6001")
+                .UseUrls("http://*:6002")
                 .UseStartup<Startup>();
     }
 }

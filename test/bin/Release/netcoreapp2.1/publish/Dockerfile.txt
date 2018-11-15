@@ -1,0 +1,9 @@
+FROM microsoft/dotnet:latest
+
+COPY . /app
+
+WORKDIR /app
+
+EXPOSE 6001/tcp
+
+ENTRYPOINT ["dotnet", "test.dll"]
